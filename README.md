@@ -1,4 +1,5 @@
 # Continuous Professional Development (CPD) professionalism notes
+
 ## 2020/21 year
 ### PST 2020/21 Professionalism in uncertainty
 #### Making an impact
@@ -58,3 +59,51 @@ Total video length 01:06:15
 * Professionalism in that territory is being built with education, technical training and structured CPD
 * Stretching the rules can often breach good ethics and in the past such behaviours have led to significant failures that have harmed society
 * Professionalism means integrity, embracing change and being mindful of the wider society and environment when making decisions
+
+## 2021/22 year
+### PST 2021/22 Strictly professional
+#### Boss' best buddy
+Total video length 7:53 + 20:53 = 28:46
+* Raises issues relating to socialisation at work and favouritism
+* Addresses professionalism issues around social media
+* There's a lot of gossip around Michael's relationsip with the boss Sophia
+* There could well be a favouritism issue
+* There is nothing unprofessional about having a social relationship with a senior figure
+* It is always important to maintain impartiality however
+* Any concerns can be raised in the right way in an objective discussion
+* Important that concerns are evidence based
+* Speaking up principle is important here
+* From Sophia's perspective - more effort could have been made to avoid the appearance of favouritism
+* Permission is important when posting on social media
+* Social media posts should also be respectful and professional
+#### Data - what data?!
+Total video lenght 7:02 + 14:25 =  21:27
+* Raises issues relating to large complex projects relying on many sources of imperfect data
+* There are resourcing issues, issues working internationally and concerns around caveats
+* With enough caveats results can become meaningless
+* The intentions for the information are unknown and this can be risky
+* Trust in senior management is an issue here
+* It's important here for Aalia to speak to stakeholders more widely here to better understand intentions for the data here and whether the accuracy of her work is suitable
+* The uncertainty in Aalia's work should be made clear and visible
+* Escalation may be necessary here depending on the specifics of the situation
+#### Judgement day
+Total video length 8:17 + 17:01 = 25:18
+* Raises issues around transfer values in a low interest rate environment
+* Also addresses issues around changing scheme rules
+* In the video Rhiannon communicates commutation factors should increase from 15/1 to 19/1
+* There are issues here around fairness between scheme members and the company's management
+* There are difficulties in communication here because transfer value factors appear similar to commutation factors but are very different because one includes a reversionary component and the other does not
+* Rhiannon could have explained the issue without refering to technical language
+* There are many techniques to convey technical concepts in a simple way
+* Its important when explaining concepts to be specific and accurate in the language that you use
+* It's important to prepare properly for meetings with clients to ensure that the important concepts are communicated clearly
+#### The Pitch
+Total video length 9:23 + 20:26 = 29:49
+* Arthur clearly hasn't prepared very well for the meeting as he's not sure who he's meeting with
+* Arthur is displaying some severe unconscious bias
+* At times Arthur is behaving outright racist and ageist
+* None of this is acceptable in any context nonetheless a professional context
+* The presentation Arthur is to deliver is copy and pasted and not specific to the business' needs so potentially inappropriate
+* It's always very important to correct unconscious bias and discrimination
+* Introductions are important in meetings with unfamiliar parties
+* When speaking up for others however it is important to check first with the person what they would want
